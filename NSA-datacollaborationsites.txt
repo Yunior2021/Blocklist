@@ -60,7 +60,6 @@ choice.microsoft.com.nsatc.net
 ssw.live.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 cache.datamart.windows.com
 db3wns2011111.wns.windows.com
 v10.vortex-win.data.microsoft.com
@@ -116,7 +115,6 @@ sls.update.microsoft.com.nsatc.net
 choice.microsoft.com.nsatc.net
 download.microsoft.com.nsatc.net
 wl.dlservice.microsoft.nsatc.net
-fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 www.microsoft.com.nsatc.net
 account.manage.microsoft.com.nsatc.net
 t.urs.microsoft.com.nsatc.net
