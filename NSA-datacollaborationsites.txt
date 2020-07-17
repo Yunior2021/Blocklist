@@ -66,7 +66,7 @@ v10.vortex-win.data.microsoft.com
 win10.ipv6.microsoft.com
 msnbot-207-46-194-33.search.msn.com
 settings.data.microsof.com
-telecommand.telemetry.microsoft.com.nsatðc.net
+telecommand.telemetry.microsoft.com.nsatoc.net
 fg.ds.dl.windowsupdate.com.nsatc.net
 win10.ipv6.microsoft.com.nsatc.net
 t2ext.audownload.windowsupdate.nsatc.net
